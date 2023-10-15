@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngjiayuan and I am a Computer Science Sophomore from National University of Singapore.
+- 👋 Hi, I’m @ngjiayuan and I am a Final Year Computer Science from National University of Singapore.
 - 👀 I’m interested in entrepreneurship and I am currently exploring the world of Blockchain Applications!
 - 🌱 I’m currently learning Database Systems and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on exciting and ambitious projects that can empower the people around me and around the world :)
